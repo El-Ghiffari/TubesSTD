@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1556519255 source:d:\kuliah\data structure\tubes\main.cpp
+	<iostream>
+	"COLLAB.h"
+	<stdlib.h>
+	<conio.h>
+
+1556523174 source:d:\kuliah\data structure\tubes\tubes.cpp
+	<iostream>
+	"TUBES.h"
+	"anak.h"
+	"COLLAB.h"
+	<string>
+
+1556507363 d:\kuliah\data structure\tubes\tubes.h
+	"anak.h"
+	<iostream>
+
+1556515146 d:\kuliah\data structure\tubes\anak.h
+	"TUBES.h"
+	<iostream>
+
+1556515146 d:\kuliah\data structure\tubes\collab.h
+	"TUBES.h"
+	"anak.h"
+
